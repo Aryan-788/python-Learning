@@ -15,7 +15,7 @@ if choice == 1:
     print("The Addition of given two number is ", num1 + num2)
 
 elif choice == 2:
-    print("The Subtraction of given two number is ", num1 - num2)
+    print("The Subtraction of given two number is ", num1 - num2) 
 
 elif choice == 3: 
     print("The Multiplication of given two number is ", num1 * num2)
